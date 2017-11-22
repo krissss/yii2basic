@@ -8,7 +8,7 @@ return [
             'password' => '',
             'charset' => 'utf8',
             'enableSchemaCache' => true,
-            'schemaCacheDuration' => 60
+            'schemaCacheDuration' => 3600
         ],
     ]
 ];
