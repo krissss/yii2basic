@@ -6,6 +6,7 @@ $params = require(__DIR__ . '/params.php');
 return [
     'name' => 'APP',
     'language' => 'zh-CN',
+    'timeZone' => 'Asia/Shanghai',
     'vendorPath' => dirname(__DIR__) . '/vendor',
     // 网站维护，打开以下注释
     //'catchAll' => ['site/offline'],
